@@ -1,0 +1,12 @@
+Coca Cola,5,45,Its Not Healthy,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227a9908e38.64550303.jpg
+Camera,50000,10,8k resolustion,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227daa6e069.94221747.jpg
+Milk,5,100,Its Healthy,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227f6a7dbd9.87019209.jpg
+PineApple,10,30,So Sweat ,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\6402282e1c5a71.72657819.jpg
+Lemon,20,3,So Sour,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\6402289c1f5690.16164414.jpg
+Grenade,45,6,Its Red  inside,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\64022f092bac59.37379440.jpg
+Coca Cola,5,45,Its Not Healthy,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227a9908e38.64550303.jpg
+Camera,50000,10,8k resolustion,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227daa6e069.94221747.jpg
+Milk,5,100,Its Healthy,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\640227f6a7dbd9.87019209.jpg
+PineApple,10,30,So Sweat ,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\6402282e1c5a71.72657819.jpg
+Lemon,20,3,So Sour,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\6402289c1f5690.16164414.jpg
+Grenade,45,6,Its Red  inside,UserData\MOHAMMED_HADDAD_DataFolder\MOHAMMED_HADDAD_ImagesFolder\64022f092bac59.37379440.jpg

@@ -1,0 +1,9 @@
+ID:27
+FIRST NAME:ziad
+LAST NAME:ben saada
+EMAIL:ziad.bensaada@gmail.com
+PHONE NUMBER:0666666666
+PASSWORD:$2y$10$zg3.GPxXyyw9kwNolmq42u.yn.iXqPpj5S7diX3aKv6yp64e93JWK
+COUNTRY:Maroc
+CITY:Tanger
+AGE:19
